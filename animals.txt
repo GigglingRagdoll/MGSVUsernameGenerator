@@ -1,0 +1,593 @@
+Aardvark (Orycteropus afer)
+Abyssinian
+Adelie Penguin (Pygoscelis adeliae)
+Affenpinscher
+Afghan Hound
+African Bush Elephant (Loxodonta africana africana)
+African Civet (Civettictis civetta)
+African Clawed Frog (Xenopus laevis)
+African Forest Elephant (Loxodonta cyclotis)
+African Palm Civet (Nandinia binotata)
+African Penguin (Spheniscus demersus)
+African Tree Toad (Nectophryne afra)
+African Wild Dog (Lycaon pictus)
+Ainu Dog
+Airedale Terrier 
+Akbash
+Akita
+Alaskan Malamute
+Albatross (Diomedeidae)
+Aldabra Giant Tortoise (Geochelone gigantea)
+Alligator (Alligator mississippiensis)
+Alpine Dachsbracke
+American Bulldog
+American Cocker Spaniel
+American Coonhound
+American Eskimo Dog
+American Foxhound
+American Pit Bull Terrier
+American Staffordshire Terrier
+American Water Spaniel
+Anatolian Shepherd Dog
+Angelfish (Pomacanthidae)
+Ant (Formicidae)
+Anteater (Myrmecophaga Tridactyla)
+Antelope (Alcelaphinae)
+Appenzeller Dog
+Arctic Fox (Alopex Lagopus)
+Arctic Hare (Lepus Arcticus)
+Arctic Wolf (Canus Lupus Arcticus)
+Armadillo (Dasypodidae)
+Asian Elephant (Elephas Maximus)
+Asian Giant Hornet (Vespa mandarinia)
+Asian Palm Civet (Paradoxurus Hermaphroditus)
+Asiatic Black Bear (Ursus tibetanus)
+Australian Cattle Dog
+Australian Kelpie Dog
+Australian Mist
+Australian Shepherd
+Australian Terrier
+Avocet (Recurvirostra)
+Axolotl (Ambystoma Mexicanum)
+Aye Aye  (Daubentonia madagascariensis)
+Baboon (Papio)
+Bactrian Camel (Camelus Bactrianus)
+Badger (Taxidea Taxus)
+Balinese
+Banded Palm Civet (Hemigalus Derbyanus)
+Bandicoot (Perameles)
+Barb (Barbus Barbus)
+Barn Owl (Tyto Alba)
+Barnacle (Cirripedia)
+Barracuda (Sphyraena)
+Basenji Dog
+Basking Shark (Cetorhinus Maximus)
+Basset Hound
+Bat (Chiroptera)
+Bavarian Mountain Hound
+Beagle
+Bear (Ursidae)
+Bearded Collie
+Bearded Dragon (Pogona Vitticeps)
+Beaver (Castor Canadensis)
+Bedlington Terrier
+Beetle (Coleoptera)
+Bengal Tiger (Panthera Tigris Tigris)
+Bernese Mountain Dog
+Bichon Frise
+Binturong (Arctictis binturong)
+Bird
+Birds Of Paradise (Paradisaeidae)
+Birman
+Bison (Bison Bison)
+Black Bear (Ursus americanus)
+Black Rhinoceros (Diceros Bicornis)
+Black Russian Terrier
+Black Widow Spider (Latrodectus)
+Bloodhound
+Blue Lacy Dog
+Blue Whale (Balsenoptera musculus)
+Bluetick Coonhound
+Bobcat (Lynx rufus)
+Bolognese Dog
+Bombay
+Bongo (Tragelaphus eurycerus)
+Bonobo (Pan Paniscus)
+Booby (Sula Nebouxii)
+Border Collie
+Border Terrier
+Bornean Orang-utan (Pongo pygmaeus)
+Borneo Elephant (Elephas Maximus Borneensis)
+Boston Terrier
+Bottle Nosed Dolphin (Tursiops Truncatus)
+Boxer Dog
+Boykin Spaniel
+Brazilian Terrier
+Brown Bear (Ursus Arctos)
+Budgerigar (Melopsittacus Undulatus)
+Buffalo (Syncerus Caffer)
+Bull Mastiff
+Bull Shark (Carcharhinus Leucas)
+Bull Terrier
+Bulldog
+Bullfrog (Rana Catesbeiana)
+Bumble Bee (Bombus)
+Burmese
+Burrowing Frog (Heleioporus)
+Butterfly (Papilionoidea)
+Butterfly Fish (Chaetodontidae)
+Caiman (Caiman crocodilus, Melanosuchus niger, Caiman yacare, Paleosuchus palpebrosus, Paleosuchus trigonatus, Caiman latirostris)
+Caiman Lizard (Dracaena Guianensis)
+Cairn Terrier
+Camel (Camelus dromedarius)
+Canaan Dog
+Capybara (Hydrochoerus hydrochaeris)
+Caracal (Caracal Caracal)
+Carolina Dog
+Cassowary (Casuarius)
+Cat (Felis Domesticus)
+Caterpillar (Larva)
+Catfish (Siluriformes)
+Cavalier King Charles Spaniel
+Centipede (Chilopoda)
+Cesky Fousek
+Chameleon (Chamaeleonidae)
+Chamois (Rupicapra Rupicapra)
+Cheetah (Acinonyx jubatus)
+Chesapeake Bay Retriever
+Chicken (Gallus Gallus)
+Chihuahua
+Chimpanzee (Pan troglodytes)
+Chinchilla (Chinchilla Lanigera)
+Chinese Crested Dog
+Chinook
+Chinstrap Penguin (Pygoscelis Antarcticus)
+Chipmunk (Tamias Striatus)
+Chow Chow
+Cichlid (Cichlidae)
+Clouded Leopard (Neofelis nebulosa)
+Clown Fish (Amphiprioninae)
+Clumber Spaniel
+Coati (Nasua Nasua)
+Cockroach (Blattaria)
+Collared Peccary (Pecari tajacu)
+Collie
+Common Buzzard (Buteo Buteo)
+Common Frog (Rana Temporaria)
+Common Loon (Gavia Immer)
+Common Toad (Bufo Bufo)
+Coral (Anthozoa)
+Cottontop Tamarin (Saguinus Oedipus)
+Cougar (Felis Concolor)
+Cow (Bos Taurus)
+Coyote (Canis latrans)
+Crab (Brachyura)
+Crab-Eating Macaque (Macaca Fascicularis)
+Crane (Gruidae)
+Crested Penguin (Eudyptes robustus)
+Crocodile (Crocodylus acutus, Crocodylus intermedius, Crocodylus johnsoni, Crocodylus mindorensis, Crocodylus moreletii, Crocodylus niloticus, Crocodylus novaeguineae, Crocodylus palustris, Crocodylus porosus, Crocodylus rhombifer, Crocodylus siamensis, Osteolaemus tetraspis, Mecistops cataphractus)
+Cross River Gorilla (Gorilla Gorilla Diehli)
+Curly Coated Retriever
+Cuscus (Phalanger Maculatus)
+Cuttlefish (Sepiida)
+Dachshund
+Dalmatian
+Darwin's Frog (Rhinoderma Darwinii)
+Deer (Odocoileus virginiana)
+Desert Tortoise (Gopherus Agassizii)
+Deutsche Bracke
+Dhole (Cuon Alpinus)
+Dingo (Canis Lupus Dingo)
+Discus (Symphysodon)
+Doberman Pinscher
+Dodo (Raphus Cucullatus)
+Dog (Canis lupus familiaris)
+Dogo Argentino
+Dogue De Bordeaux
+Dolphin (Delphinus Delphis)
+Donkey (Equus Asinus)
+Dormouse (Gliridae)
+Dragonfly (Anisoptera)
+Drever
+Duck (Anas Platyrhynchos)
+Dugong (Dugong Dugon)
+Dunker
+Dusky Dolphin (Lagenorhynchus obscurus)
+Dwarf Crocodile (Osteolaemus tetraspis)
+Eagle (Hieraatus Spilogaster)
+Earwig  (Dermaptera)
+Eastern Gorilla (Gorilla Berengei)
+Eastern Lowland Gorilla (Gorilla Berengei Graueri)
+Echidna (Tachyglossus Aculeatus)
+Edible Frog (Pelophylax kl. esculentus)
+Egyptian Mau
+Electric Eel (Electrophorus Electricus)
+Elephant (Loxodonta Africana)
+Elephant Seal (Mirounga)
+Elephant Shrew (Elephantulus)
+Emperor Penguin (Aptenodytes forsteri)
+Emperor Tamarin (Saguinus Imperator)
+Emu (Dromaius Novaehollandiae)
+English Cocker Spaniel
+English Shepherd
+English Springer Spaniel
+Entlebucher Mountain Dog
+Epagneul Pont Audemer
+Eskimo Dog
+Estrela Mountain Dog
+Falcon (Falconiforme)
+Fennec Fox (Vulpes zerda)
+Ferret (Mustela Putorius Furo)
+Field Spaniel
+Fin Whale (Balaenoptera Physalus)
+Finnish Spitz
+Fire-Bellied Toad (Bombina)
+Fish
+Fishing Cat (Prionailurus viverrinus)
+Flamingo (Phoenicopterus)
+Flat Coat Retriever
+Flounder (Paralichthys)
+Fly (Diptera)
+Flying Squirrel (Pteromyini)
+Fossa (Cryptoprocta ferox)
+Fox (Vulpes vulpes)
+Fox Terrier
+French Bulldog
+Frigatebird (Fregata)
+Frilled Lizard (Chlamydosaurus Kingii)
+Frog (Rana Temporaria)
+Fur Seal (Arctocephalinae)
+Galapagos Penguin (Spheniscus Mendiculus)
+Galapagos Tortoise (Geochelone Nigra)
+Gar (Lepisosteidae)
+Gecko (Gekkonidae)
+Gentoo Penguin (Pygoscelis papua)
+Geoffroys Tamarin (Saguinus Geoffroyi)
+Gerbil (Gerbillinae)
+German Pinscher
+German Shepherd
+Gharial (Gavialis gangeticus)
+Giant African Land Snail (Achatina Fulica)
+Giant Clam (Tridacna Gigas)
+Giant Panda Bear (Ailuropoda melanoleuca)
+Giant Schnauzer
+Gibbon (Hylobatidae)
+Gila Monster (Heloderma Suspectum)
+Giraffe (Giraffa camelopardalis)
+Glass Lizard (Ophisaurus)
+Glow Worm (Arachnocampa luminosa)
+Goat (Capra Aegagrus Hircus)
+Golden Lion Tamarin (Leontopithecus Rosalia)
+Golden Oriole (Oriolus oriolus)
+Golden Retriever
+Goose (Branta)
+Gopher (Spermophilus Richardsonii)
+Gorilla (Troglodytes Gorilla)
+Grasshopper (Caelifera)
+Great Dane
+Great White Shark (Carcharodon carcharias)
+Greater Swiss Mountain Dog
+Green Bee-Eater (Merops Orientalis)
+Greenland Dog
+Grey Mouse Lemur (Microcebus Murinus)
+Grey Reef Shark (Carcharhinus Amblyrhynchos)
+Grey Seal (Halichoerus Grypus)
+Greyhound
+Grizzly Bear (Ursus Arctos Horriblis)
+Grouse (Tetraoninae)
+Guinea Fowl (Numididae)
+Guinea Pig (Cavia porcellus)
+Guppy (Poecilia Reticulata)
+Hammerhead Shark (Sphyrna Zygaena)
+Hamster (Mesocricetus Auratus)
+Hare (Lepus Europaeus)
+Harrier
+Havanese
+Hedgehog (Atelerix Albiventris)
+Hercules Beetle (Dynastes Hercules )
+Hermit Crab (Paguroidea)
+Heron (Ardeidae)
+Highland Cattle (Bos Taurus)
+Himalayan
+Hippopotamus (Hippopotamus amphibius)
+Honey Bee (Apis)
+Horn Shark (Heterodontus Francisci)
+Horned Frog (Ceratophrys Ornata)
+Horse (Equus Caballus)
+Horseshoe Crab (Limulidae)
+Howler Monkey (Alouatta)
+Human (Homo Sapiens Sapiens)
+Humboldt Penguin (Spheniscus Humboldti)
+Hummingbird (Trochilidae)
+Humpback Whale (Megaptera Novaeangliae)
+Hyena (Crocuta Crocuta)
+Ibis (Threskiornithidae)
+Ibizan Hound
+Iguana (Iguana Iguana)
+Impala (Aepyceros Melampus)
+Indian Elephant (Elephas Maximus Indicus)
+Indian Palm Squirrel (Funambulus Palmarum)
+Indian Rhinoceros (Rhinoceros Unicornis)
+Indian Star Tortoise (Geochelone Elegans)
+Indochinese Tiger (Panthera Tigris Corbetti)
+Indri (Indri indri)
+Insect (Insecta)
+Irish Setter
+Irish WolfHound
+Jack Russel
+Jackal (Canis Aureus)
+Jaguar (Panthera onca)
+Japanese Chin
+Japanese Macaque (Macaca fuscata)
+Javan Rhinoceros (Rhinoceros Sondaicus)
+Javanese
+Jellyfish (Cnidaria Scyphozoa Aurelia)
+Kakapo (Strigops Habroptilus)
+Kangaroo (Macropus Giganteus)
+Keel Billed Toucan (Ramphastos Sulfuratus)
+Killer Whale (Orcinus Orca)
+King Crab (Lopholithodes Mandtii)
+King Penguin (Aptenodytes Patagonicus)
+Kingfisher (Coraciiformes)
+Kiwi (Actinidia Deliciosa)
+Koala (Phascolarctos cinereus)
+Komodo Dragon (Varanus komodoensis)
+Kudu (Tragelaphus Strepsiceros)
+Labradoodle
+Labrador Retriever
+Ladybird (Coccinellidae)
+Leaf-Tailed Gecko (Uroplatus)
+Lemming (Lemmus Lemmus)
+Lemur (Lemur Catta)
+Leopard (Panthera pardus)
+Leopard Cat (Prionailurus Bengalensis)
+Leopard Seal (Hydrurga Leptonyx)
+Leopard Tortoise (Geochelone Pardalis)
+Liger (Panthera leo × Panthera tigris)
+Lion (Panthera leo)
+Lionfish (Pterois volitans)
+Little Penguin (Eudyptula Minor)
+Lizard (Lacertilia)
+Llama (Lama Glama)
+Lobster (Nephropidae)
+Long-Eared Owl (Casuarius)
+Lynx (Felis Lynx)
+Macaroni Penguin (Eudyptes Chrysolophus)
+Macaw (Arini)
+Magellanic Penguin (Spheniscus Magellanicus)
+Magpie (Pica Pica)
+Maine Coon
+Malayan Civet (Viverra Tangalunga)
+Malayan Tiger (Panthera Tigris Jacksoni)
+Maltese
+Manatee (Trichechus Manatu)
+Mandrill (Mandrillus Sphinx)
+Manta Ray (Manta Birostris)
+Marine Toad (Bufo Marinus)
+Markhor (Capra Falconeri)
+Marsh Frog (Pelophylax Ridibundus)
+Masked Palm Civet (Paguma Larvata)
+Mastiff
+Mayfly (Ephemeroptera)
+Meerkat (Suricata suricatta)
+Millipede (Diplopoda)
+Minke Whale (Balaenoptera Acutorostrata)
+Mole (Talpidae)
+Molly (Poecilia)
+Mongoose (Helogale Parvula)
+Mongrel
+Monitor Lizard (Varanus Indicus)
+Monkey (Macaca Fascicularis)
+Monte Iberia Eleuth (Eleutherodactylus Iberia)
+Moorhen (Gallinula)
+Moose (Alces Alces)
+Moray Eel (Muraenidae)
+Moth (Gynnidomorpha Alisman)
+Mountain Gorilla (Gorilla Berengei Berengei)
+Mountain Lion (Felis Concolor)
+Mouse (Apodemus Sylvaticus)
+Mule (Equus Mule)
+Neanderthal (Homo Sapiens Neanderthalensis)
+Neapolitan Mastiff
+Newfoundland
+Newt (Lissotriton Vulgaris)
+Nightingale (Luscinia Magarhynchos)
+Norfolk Terrier
+Norwegian Forest
+Numbat (Myrmecobius Fasciatus)
+Nurse Shark (Ginglymostoma Cirratum)
+Ocelot (Leopardus pardalis)
+Octopus (Octopus Vulgaris)
+Okapi (Okapia johnstoni)
+Old English Sheepdog
+Olm (Proteus Anguinus)
+Opossum (Didelphis Virginiana)
+Orang-utan (Pongo pygmaeus, Pongo abelii, Pongo tapanuliensis)
+Ostrich (Struthio Camelus)
+Otter (Lutra Canadensis)
+Oyster (Ostreidae)
+Pademelon (Thylogale)
+Panther (Panthera pardus, Panthera onca )
+Parrot (Psittacine)
+Patas Monkey (Erythrocebus patas)
+Peacock (Pavo Cristatus)
+Pekingese
+Pelican (Pelecanus Occidentalis)
+Penguin (Aptenodytes Forsteri)
+Persian
+Pheasant (Phasianus Colchicus)
+Pied Tamarin (Saguinus Bicolor)
+Pig (Sus Scrofa Scrofa)
+Pika (Ochotona Minor)
+Pike (Esox)
+Pink Fairy Armadillo (Chlamyphorus truncatus)
+Piranha (Pygocentrus Nattereri)
+Platypus (Ornithorhynchus Anatinus)
+Pointer
+Poison Dart Frog (Dendrobatidae)
+Polar Bear (Ursus maritimus)
+Pond Skater (Gerridae  )
+Poodle
+Pool Frog (Pelophylax Lessonae)
+Porcupine (Erethizon Dorsaum)
+Possum (Phalangeriforme)
+Prawn (Dendrobranchiata)
+Proboscis Monkey (Nasalis larvatus)
+Puffer Fish (Tetraodontidae)
+Puffin (Fratercula arctica)
+Pug
+Puma (Felis concolor)
+Purple Emperor (Apatura Iris  )
+Puss Moth (Cerura Vinula )
+Pygmy Hippopotamus (Choeropsis liberiensis)
+Pygmy Marmoset (Callithrix Pygmaea)
+Quail (Coturnix Coturnix)
+Quetzal (Pharomachrus, Euptilotis)
+Quokka (Setonix brachyurus)
+Quoll (Dasyurus Viverrinus)
+Rabbit (Oryctolagus cuniculus)
+Raccoon (Procyon Lotor)
+Raccoon Dog (Nyctereutes Procyonoides)
+Radiated Tortoise (Astrochelys radiata)
+Ragdoll
+Rat (Rattus Rattus)
+Rattlesnake
+Red Knee Tarantula (Brachypelma Smithi)
+Red Panda (Ailurus fulgens)
+Red Wolf (Canis Lupus Rufus)
+Red-handed Tamarin (Saguinus Midas)
+Reindeer (Rangifer Tarandus)
+Rhinoceros (Rhinocerotidae)
+River Dolphin (Platanistoidea )
+River Turtle (Emydidae)
+Robin (Erithacus Rubecula)
+Rock Hyrax (Procavia capensis)
+Rockhopper Penguin (Eudyptes Chrysocome)
+Roseate Spoonbill (Ajaja ajaja)
+Rottweiler
+Royal Penguin (Eudyptes Schlegeli)
+Russian Blue
+Sabre-Toothed Tiger (Smilodon populator)
+Saint Bernard
+Salamander (Caudata)
+Sand Lizard (Lacerta Agilis)
+Saola (Pseudoryx nghetinhensis)
+Scorpion (Scorpiones)
+Scorpion Fish (Scorpaenidae)
+Sea Dragon (Phycodurus Eques)
+Sea Lion (Otariidae)
+Sea Otter (Enhydra Lutris)
+Sea Slug (Holothuroidea)
+Sea Squirt (Urochordata)
+Sea Turtle (Chelonioidea)
+Sea Urchin (Echinoidea)
+Seahorse (Hippocampus)
+Seal (Phoca vitulina)
+Serval (Leptailurus serval)
+Sheep (Ovis Aries)
+Shih Tzu
+Shrimp (Caridea)
+Siamese
+Siamese Fighting Fish (Betta Splendens)
+Siberian
+Siberian Husky
+Siberian Tiger (Panthera Tigris Altaica)
+Silver Dollar (Metynnis Argenteus)
+Skunk (Mephitis Mephitis)
+Sloth (Choloepus Hoffmani)
+Slow Worm (Anguis Fragilis)
+Snail (Achatinoidea  )
+Snake (Serpentes)
+Snapping Turtle (Chelydridae)
+Snowshoe
+Snowy Owl (Bubo Scandiacus)
+Somali
+South China Tiger (Panthera Tigris Amoyensis)
+Spadefoot Toad (Mesobatrachia)
+Sparrow (Passeridae)
+Spectacled Bear (Tremarctos Ornatus)
+Sperm Whale (Physeter Macrocephalus)
+Spider Monkey (Simia Paniscus)
+Spiny Dogfish (Squalus Acanthias)
+Sponge (Demospongiae)
+Squid (Teuthida )
+Squirrel (Sciuridae)
+Squirrel Monkey (Saimiri)
+Sri Lankan Elephant (Elephas Maximus Maximus)
+Staffordshire Bull Terrier
+Stag Beetle (Lucanidae  )
+Starfish (Protoreaster Nodosus)
+Stellers Sea Cow (Hydrodamalis Gigas)
+Stick Insect (Phasmatodea)
+Stingray (Dasyatis Centroura)
+Stoat (Mustela Erminea)
+Striped Rocket Frog (Litoria Nasuta)
+Sumatran Elephant (Elephas Maximus Sumatranus)
+Sumatran Orang-utan (Pongo abelii)
+Sumatran Rhinoceros (Dicerorhinus Sumatrensis)
+Sumatran Tiger (Panthera Tigris Sumatrae)
+Sun Bear (Helarctos malayanus)
+Swan (Cygnus Atratus)
+Tang (Acanthuridae)
+Tapanuli Orang-utan (Pongo tapanuliensis)
+Tapir (Tapirus)
+Tarsier (Tarsius)
+Tasmanian Devil (Sarcophilus Harrisii)
+Tawny Owl (Strix Aluco)
+Termite (Isoptera)
+Tetra (Paracheirodon Axelrodi)
+Thorny Devil (Moloch Horridus)
+Tibetan Mastiff
+Tiffany
+Tiger (Panthera Tigris)
+Tiger Salamander (Ambystoma Tigrinum)
+Tiger Shark (Galeocerdo Cuvier)
+Tortoise (Geochelone Elegans)
+Toucan (Ramphastos Toco)
+Tree Frog (Hyla)
+Tropicbird (Phaethon)
+Tuatara (Sphenodon Punctatus)
+Turkey (Meleagris)
+Turkish Angora
+Uakari (Cacajao)
+Uguisu (Cettia diphone)
+Umbrellabird (Cephalopterus)
+Vampire Bat (Desmodontinae)
+Vervet Monkey (Chlorocebus pygerythrus)
+Vulture (Aegypius Monachus)
+Wallaby (Macropus)
+Walrus (Odobenus rosmarus)
+Warthog (Phacochoerus Africanus)
+Wasp (Hymenoptera)
+Water Buffalo (Bubalus Bubalis)
+Water Dragon (Physignathus)
+Water Vole (Arvicola amphibius)
+Weasel (Mustela nivalis)
+Welsh Corgi
+West Highland Terrier
+Western Gorilla (Gorilla Gorilla)
+Western Lowland Gorilla (Gorilla Gorilla Gorilla)
+Whale Shark (Rhincodon Typus)
+Whippet
+White Faced Capuchin (Cebus Capucinus)
+White Rhinoceros (Ceratotherium simum)
+White Tiger (Panthera tigris tigris)
+Wild Boar (Sus scrofa)
+Wildebeest (Connochaetes Taurinus)
+Wolf (Canis Rufus)
+Wolverine (Gulo Gulo)
+Wombat (Vombatus Ursinus)
+Woodlouse (Oniscidea)
+Woodpecker (Picidae)
+Woolly Mammoth (Mammuthus Primigenius)
+Woolly Monkey (Lagothrix Lagotricha)
+Wrasse (Labridae)
+X-Ray Tetra (Pristella maxillaris)
+Yak (Bos Grunniens)
+Yellow-Eyed Penguin (Megadyptes Antipodes)
+Yorkshire Terrier
+Zebra (Equus zebra, Equus quagga, Equus grevyi)
+Zebra Shark (Stegostoma Fasciatum)
+Zebu (Bos Primigenius Indicus)
+Zonkey (Equus zebra x Equus asinus)
+Zorse (Equus zebra x Equus caballus)
